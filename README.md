@@ -1,3 +1,22 @@
+This is a practice project built with react/material-ui/firebase.
+This is a facebook-messenger clone 
+
+Feel free to try it out. 
+
+Enter your username and it will show in the screen. 
+
+Refresh the page and the username will automatically refresh. 
+
+Enter a new username, and you will see the previous username shown in the screen ! 
+
+https://app.netlify.com/sites/festive-booth-cd7daa/overview << this is the link to try it out ! 
+
+Alternatively, you can download the code and do npm init and npm i.
+
+Cheers.
+ 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
